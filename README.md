@@ -30,7 +30,7 @@ The website automatically loads books from Google Sheets, allowing the store own
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here.
+https://phebronia.github.io/Dr_Book/
 
 ---
 
